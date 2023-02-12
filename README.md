@@ -1,1 +1,27 @@
-# doctorStrange
+# Landing Pages
+
+Landing page é uma ferramenta que objetiva a transformação de visitantes para clientes. Ela consiste na criação de sites que atraia e chame a atenção do usuário.
+Para mim é muito importante o desenvolvimento de páginas simples e chamativas pois é uma ótima maneira de treinar minha habilidades no front-end.
+
+## Linguagens utilizadas
+- HTML
+- CSS
+- Sass
+- JavaScript
+
+## Meus projetos usando a ferramenta landing page
+
+- Doctor Strange
+[Visualizar projeto](https://maria-efs.github.io/landing-pages/doctor-strange/)
+<img src="./imgs/doctor-strange.png" alt="doctor-strange" width="400" height="350">
+
+- OneBitX form
+[Visualizar projeto](https://maria-efs.github.io/landing-pages/onebitX-form/)
+<img src="./imgs/onebitX.png" alt="doctor-strange" width="400" height="350">
+
+- Tom's Jazz School
+[Visualizar projeto](https://maria-efs.github.io/landing-pages/jazz-school/)
+<img src="./imgs/jazz-school.ong" alt="doctor-strange" width="400" height="350">
+
+##Autor
+[Maria Eduarda Fernandes](https://maria-efs.github.io/)
