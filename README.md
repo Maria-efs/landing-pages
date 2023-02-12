@@ -12,22 +12,19 @@ Para mim é muito importante o desenvolvimento de páginas simples e chamativas 
 ## Meus projetos usando a ferramenta landing page
 
 - Doctor Strange
-- 
-[Visualizar projeto](https://maria-efs.github.io/landing-pages/doctor-strange/)
+- [Visualizar projeto](https://maria-efs.github.io/landing-pages/doctor-strange/)
 <img src="./imgs/doctor-strange.png" alt="doctor-strange" width="500" height="300">
 
 <br/>
 
 - OneBitX form
-- 
-[Visualizar projeto](https://maria-efs.github.io/landing-pages/onebitX-form/)
+- [Visualizar projeto](https://maria-efs.github.io/landing-pages/onebitX-form/)
 <img src="./imgs/onebitX.png" alt="OneBitX form" width="500" height="300">
 
 <br/>
 
 - Tom's Jazz School
-- 
-[Visualizar projeto](https://maria-efs.github.io/landing-pages/jazz-school/)
+- [Visualizar projeto](https://maria-efs.github.io/landing-pages/jazz-school/)
 <img src="./imgs/jazz-school.png" alt="Tom's Jazz School" width="500" height="500">
 
 ## Autor
