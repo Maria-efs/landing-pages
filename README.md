@@ -21,7 +21,7 @@ Para mim é muito importante o desenvolvimento de páginas simples e chamativas 
 
 - Tom's Jazz School
 [Visualizar projeto](https://maria-efs.github.io/landing-pages/jazz-school/)
-<img src="./imgs/jazz-school.png" alt="Tom's Jazz School" width="500" height="400">
+<img src="./imgs/jazz-school.png" alt="Tom's Jazz School" width="500" height="500">
 
 ##Autor
 [Maria Eduarda Fernandes](https://maria-efs.github.io/)
