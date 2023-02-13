@@ -11,13 +11,15 @@ Ela é muito importante para o desenvolvimento Front-end pois consiste no uso de
 
 ## Meus projetos usando a ferramenta landing page
 
-01 - Doctor Strange
+<br/>
+
+### 01 - Doctor Strange
 - [Visualizar projeto](https://maria-efs.github.io/landing-pages/doctor-strange/)
 <img src="./imgs/doctor-strange.png" alt="doctor-strange" width="500" height="300">
 
 <br/>
 
-02 - Tom's Jazz School
+### 02 - Tom's Jazz School
 - [Visualizar projeto](https://maria-efs.github.io/landing-pages/jazz-school/)
 <img src="./imgs/jazz-school.png" alt="Tom's Jazz School" width="500" height="500">
 
